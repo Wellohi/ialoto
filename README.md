@@ -7,3 +7,4 @@ __________________________________________________________________________
 #### -Analisar quais números mais sairam e quais não sairam.
 #### -Analisar números que saem em sequencia, quantos números em sequencia e quais são
 #### -Analisar números que menos saem.
+#### -Analisar a probabilidade de cada número de sair, números que sempre saem.
